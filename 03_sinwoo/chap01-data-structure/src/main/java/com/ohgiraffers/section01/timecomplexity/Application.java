@@ -17,6 +17,8 @@ public class Application {
 
         arr = reverse(arr); // arr == result
         System.out.println("reverse(arr) = " + Arrays.toString(arr));
+
+        System.out.println("hello world");
     }
 
     /* 상수 시간 BigO(1)
