@@ -42,4 +42,13 @@ public class Application {
 
         return result;
     }
+
+    /* 로그 시간 O(log n)
+    *   -  입력 크기(n)가 증가할 때, 실행 시간이 로그 함수적으로 증가하는 경우를 의미
+    * */
+    
+
+
+
+
 }
